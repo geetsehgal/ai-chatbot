@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+chromadb
+firebase-admin
+google-genai
+python-multipart
+pypdf
+sentence-transformers
+httpx
+loguru
