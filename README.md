@@ -868,3 +868,10 @@ Project status:
 ```text
 Production Ready
 ```
+
+
+==================Security Rules==============
+collection.query(
+    query_embeddings=[embedding],
+    where={
+        "user_id": 
